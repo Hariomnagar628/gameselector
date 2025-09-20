@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/gameselector/static/css/main.61121d32.css",
+    "main.js": "/gameselector/static/js/main.ad702d0c.js",
+    "index.html": "/gameselector/index.html",
+    "main.61121d32.css.map": "/gameselector/static/css/main.61121d32.css.map",
+    "main.ad702d0c.js.map": "/gameselector/static/js/main.ad702d0c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.61121d32.css",
+    "static/js/main.ad702d0c.js"
+  ]
+}
