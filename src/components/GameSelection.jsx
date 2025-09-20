@@ -1,3 +1,8 @@
+import lavaImg from "../assets/escapeTheLava.jpg";
+import colorImg from "../assets/findTheColor.jpg";
+import redLightImg from "../assets/redLightGreenLight.jpg";
+import shooterImg from "../assets/sharpShooter.jpg";
+
 import React from "react";
 import "./GameSelection.css";
 
@@ -6,25 +11,25 @@ const games = [
     name: "Escape The Lava",
     type: "Solo/Team",
     players: "1 to 6",
-    image: "https://cdn.escaperoom.com/uploads/styles/directoryCards/The-Floor-Is-Lava-escape-room-Lost-Games-QW2pZgcQn-sm.jpg",
+    image: lavaImg
   },
   {
     name: "Find The Color",
     type: "Competition",
     players: "1 to 6",
-    image: "https://img.poki-cdn.com/cdn-cgi/image/q=78,scq=50,width=204,height=204,fit=cover,f=auto/e27d06d55fdadccb39baa400802a7695/color.png",
+    image: colorImg
   },
   {
     name: "Red Light Green Light",
     type: "Competition",
     players: "1 to 4",
-    image: "https://media.istockphoto.com/id/183255824/photo/red-yellow-and-green-light-traffic-stoplight-at-night.jpg?s=612x612&w=0&k=20&c=P3x9rojWBFeXK8FS7Nlk1e0KuGRSsQbVsxzyrDTmg3U=",
+    image: redLightImg
   },
   {
     name: "Sharp Shooter",
     type: "Competition",
     players: "1 to 4",
-    image: "https://media.gettyimages.com/id/1083472970/vector/man-in-crosshairs.jpg?s=612x612&w=0&k=20&c=OEpVP1tLdZ6Y8wwEj4mqwYtppHNQz3peNAyvxIf50sU=",
+    image: shooterImg
   },
 ];
 
