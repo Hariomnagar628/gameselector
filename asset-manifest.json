@@ -1,13 +1,17 @@
 {
   "files": {
     "main.css": "/gameselector/static/css/main.61121d32.css",
-    "main.js": "/gameselector/static/js/main.ad702d0c.js",
+    "main.js": "/gameselector/static/js/main.3d52609c.js",
+    "static/media/sharpShooter.jpg": "/gameselector/static/media/sharpShooter.8b0892a990adb710488a.jpg",
+    "static/media/redLightGreenLight.jpg": "/gameselector/static/media/redLightGreenLight.3fc21f73676408c3f34e.jpg",
+    "static/media/findTheColor.jpg": "/gameselector/static/media/findTheColor.ce01a42020349f0b84aa.jpg",
+    "static/media/escapeTheLava.jpg": "/gameselector/static/media/escapeTheLava.c50ff275542e516bf981.jpg",
     "index.html": "/gameselector/index.html",
     "main.61121d32.css.map": "/gameselector/static/css/main.61121d32.css.map",
-    "main.ad702d0c.js.map": "/gameselector/static/js/main.ad702d0c.js.map"
+    "main.3d52609c.js.map": "/gameselector/static/js/main.3d52609c.js.map"
   },
   "entrypoints": [
     "static/css/main.61121d32.css",
-    "static/js/main.ad702d0c.js"
+    "static/js/main.3d52609c.js"
   ]
 }
